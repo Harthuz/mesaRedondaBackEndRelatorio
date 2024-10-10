@@ -1,1 +1,2 @@
 # mesaRedondaBackEndRelatorio
+Essa palestra falou sobre back end, que se refere à parte do desenvolvimento web que lida com a lógica do servidor, gerenciamento de banco de dados e a comunicação entre o cliente e o servidor. O back end é responsável por processar solicitações, manipular dados e garantir que as funcionalidades do site ou aplicativo funcionem corretamente. Ele envolve o uso de linguagens de programação e a implementação de uma arquitetura eficiente, segurança e integração com APIs para fornecer uma experiência robusta ao usuário final.
